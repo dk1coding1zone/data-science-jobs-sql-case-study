@@ -1,5 +1,5 @@
 # data-science-jobs-sql-case-study
 
-1. You're a Compensation analyst employed by a multinational corporation. Your Assignment is to Pinpoint Countries who give work fully remotely, for the title
- 'managers’ Paying salaries Exceeding $90,000 USD
+[data-science-sql-case-study.pdf](https://github.com/user-attachments/files/16353060/data-science-sql-case-study.pdf)
 
+VISIT: https://medium.com/p/5386ead36df6
